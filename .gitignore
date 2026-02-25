@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# Data
+*.txt
+*.csv
+
+# Mac/Windows junk
+.DS_Store
+Thumbs.db
